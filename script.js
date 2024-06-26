@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "OP DIE DJALLA die was raak",
     "potje fortnite? Das echt vet!!!!",
     "waar is mijn bril???",
-    "HEY!! wie heeft het ligt uit gedaan?",
+    "HEY!! wie heeft het licht uit gedaan?",
     "IK ZWEER DAT IS EEN NINJA",
     "ja hij is een beetje slecht horend. ah ja ik heb soms ook poep in mn hoofd",
     "9.06 single pb",
@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
   let resetCount = parseInt(localStorage.getItem("resetCount")) || 0;
   let remainingPresses = getRandomPressCount(state);
 
-  let SESSION_SEQUENCE_STARTS_AT = 2; //Math.floor(Math.random() * 10) + 5
+  let SESSION_SEQUENCE_STARTS_AT = Math.floor(Math.random() * 8) + 4
   let session_resets = 0;
 
   button.innerText = presses;
