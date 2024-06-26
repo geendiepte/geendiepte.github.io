@@ -109,5 +109,5 @@ document.addEventListener("DOMContentLoaded", () => {
     localStorage.setItem("resetCount", resetCount);
   });
 
-  messageDisplay.innerText = "Hey, good job, but AFAK has 34 points.";
+  messageDisplay.innerText = "broo synergyyyyyy!!!!!!!!!!!! ";
 });
