@@ -6,6 +6,7 @@ body {
   height: 100vh;
   background-color: #FAF3DC; /* Updated beige background */
   font-family: "Arial Rounded MT Bold", Arial, sans-serif;
+  transition: background-color 0.3s;
   position: relative;
 }
 
