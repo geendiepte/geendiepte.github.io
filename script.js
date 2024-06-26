@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "ja hij is een beetje slecht horend. ah ja ik heb soms ook poep in mn hoofd",
     "9.06 single pb",
     "zin in een potje clock??",
+    "3 seconds mouse delay",
     "future team bld champion",
     "broo synergyyyyyy!!!!!!!!!!!! ",
   ];
