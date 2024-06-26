@@ -17,6 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
     "9.06 single pb",
     "zin in een potje clock??",
     "future team bld champion",
+    "broo synergyyyyyy!!!!!!!!!!!! "
   ];
 
   let state = "NO_MESSAGE";
